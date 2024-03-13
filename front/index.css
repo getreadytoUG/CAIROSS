@@ -1,0 +1,99 @@
+/* 공통부분 모든박스부분 */
+.box {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+/* 맨 바깥 */
+#main-box {
+    margin: 0 auto;
+    width: 85%;
+    display: flex;
+    background-color: rgb(234, 232, 232);
+}
+
+#box1 {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    text-align: center;
+}
+
+#box2 {
+    width: 50%;
+    height: 70vh;
+    padding: 10px;
+    margin: 30px;
+    margin-left: 0;
+    margin-top: 50px;
+    overflow-y: auto;
+    background-color: #f4f8fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* CCTV이름 */
+#title-box {
+    width: 100%;
+    height: 10%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#f4f8fc;
+}
+
+/* CCTV이름 p태그 */
+#title-box p {
+    font-size: x-large;
+    line-height: 1;
+    margin: 0;
+}
+
+/* CCTV박스 */
+#cctv-box {
+    width: 100%;
+    max-height: 100%; 
+    border: none;
+    overflow: hidden;
+}
+
+/* 실제 CCTV 영상 */
+#cctv-box video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* 실제 CCTV 영상 */
+#cctv-box video {
+    width: 100%;
+    height: auto;
+}
+
+#close-up-box{
+    width: 100%;
+    height: auto;
+}
+
+.warning-class {
+    position: relative;
+    margin-bottom: 8px;
+    background-color:#f4f8fc;
+}
+
+.close-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+
+#NoneImg {
+    align-items: center;
+    justify-content: center;
+}
