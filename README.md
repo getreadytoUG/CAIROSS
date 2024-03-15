@@ -8,7 +8,7 @@
 ### "CAIROSS: Cliff Alarm Item for Rescue Of Severe Situation"
 - "CAIROSS"는 다리 위 CCTV를 통해 투신 등의 위험행동을 감지하고 신속하게 대응하는 AI 기반 분석 서비스입니다
 -  실시간 영상 분석을 통해 난간과 사람 사이의 거리를 측정하여 위험 상황을 판단하고, 관리자에게 알림을 주며 안전한 공공환경을 조성합니다.
-- 자살 시도 후 실패한 사람들은 후회와 깨달음을 통해 삶의 가치를 깨달을 수 있고, 이 마지막 기회를 기회의 신 카이로스처럼 주고자 합니다. 
+- 극단적 선택에 실패한 사람들은 후회와 깨달음을 통해 삶의 가치를 깨달을 수 있고, 이 마지막 기회를 기회의 신 카이로스처럼 주고자 합니다. 
 
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/CAIROSS/assets/127275992/58fe1337-18aa-44d3-a5d4-ebb4ddeaba43">
 
